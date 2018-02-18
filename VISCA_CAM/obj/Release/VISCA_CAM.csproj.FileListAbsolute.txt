@@ -1,0 +1,10 @@
+D:\VS_Application\VISCA_CAM\VISCA_CAM\bin\Release\VISCA_CAM.exe.config
+D:\VS_Application\VISCA_CAM\VISCA_CAM\bin\Release\VISCA_CAM.exe
+D:\VS_Application\VISCA_CAM\VISCA_CAM\bin\Release\VISCA_CAM.pdb
+D:\VS_Application\VISCA_CAM\VISCA_CAM\obj\Release\VISCA_CAM.csprojResolveAssemblyReference.cache
+D:\VS_Application\VISCA_CAM\VISCA_CAM\obj\Release\VISCA_CAM.Form1.resources
+D:\VS_Application\VISCA_CAM\VISCA_CAM\obj\Release\VISCA_CAM.Properties.Resources.resources
+D:\VS_Application\VISCA_CAM\VISCA_CAM\obj\Release\VISCA_CAM.csproj.GenerateResource.Cache
+D:\VS_Application\VISCA_CAM\VISCA_CAM\obj\Release\VISCA_CAM.csproj.CoreCompileInputs.cache
+D:\VS_Application\VISCA_CAM\VISCA_CAM\obj\Release\VISCA_CAM.exe
+D:\VS_Application\VISCA_CAM\VISCA_CAM\obj\Release\VISCA_CAM.pdb
